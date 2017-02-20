@@ -1,0 +1,73 @@
+Este texto é destinado a novos usuários do Linux, mais especificamente, da distribuição Manjaro Linux.
+
+O Manjaro Linux é uma distribuição Rolling Release, que significa que é sempre atualizada e que não é preciso baixar uma nova ISO e instala-la no computador para ter o sistema mais atualizado. O Manjaro é baseado no ArchLinux, e por isto, a comunidade do ArchLinux e do Manjaro é gigantesca. Quando você estiver com alguma dúvida, erro ou algo do tipo, só ir até a wiki do ArchLinux, ou forum do Arch e do Manjaro e pedir ajuda.
+
+Básico sobre a distro Manjaro Linux && ArchLinux:
+
+O gerenciador de pacotes do ArchLinux/Manjaro é o Pacman, que é bem poderoso, rápido e limpo. Para usa-lo, é simples.
+
+OBS: O simbolo '#' antes dos comandos, significa que é para executar o comando como root, para entrar como usuário root, é só dar o comando "sudo su" e digitar tua senha.
+
+Instalação de pacotes: # pacman -S nome_do_pacote
+
+Remover pacotes: # pacman -R nome_do_pacote
+
+Remover um pacote, suas dependências e todos os pacotes que dependem deste pacote: # pacman -Rsc nome_do_pacote
+
+Atualizar pacotes: # pacman -Syu
+
+Para mais informações sobre o gerenciador de pacotes Pacman, só acessar a wiki: https://wiki.archlinux.org/index.php/Pacman_(Portugu%C3%AAs)
+
+---------------------------------------------------------------------------------------------
+
+AUR (Arch User Repository):
+
+O AUR é um repositório de usuários do ArchLinux, que também é usado pelo Manjaro. O AUR contem diversos pacotes e podem ser instalados usando o "yaourt".
+
+OBS: O símbolo '$' significa que é para executar o comando como usuário normal.
+
+Procurar por pacotes:
+
+$ yaourt nome_do_pacote
+
+Depois de pesquisar o nome do pacote, só digitar o número que ele corresponde.
+
+Instalar pacotes do AUR:
+
+$ yaourt -S nome_do_pacote
+
+Remover pacotes do AUR:
+
+$ yaourt -Rsc nome_do_pacote
+
+Para mais informações sobre o AUR, só acessar o site: https://wiki.archlinux.org/index.php/Arch_User_Repository_(Portugu%C3%AAs)
+
+---------------------------------------------------------------------------------------------
+
+Comandos básicos para usar o terminal:
+
+Ver os arquivos/pastas em um diretorio:
+
+$ ls
+
+Ir para um diretório:
+
+$ cd diretorio
+
+Ver o que tem dentro de arquivo:
+
+$ cat arquivo
+
+Procurar algo que está dentro de um arquivo:
+
+$ cat arquivo | grep palavra
+
+Procurar por algum arquivo em toda a "/":
+
+$ locate arquivo
+
+------------------------------------------
+
+E este é o post de hoje, quem quiser modifica-lo, sinta-se livre para faze-lo. 
+
+:)
