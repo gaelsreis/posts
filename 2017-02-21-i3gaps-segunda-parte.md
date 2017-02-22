@@ -91,3 +91,9 @@ Para colocar bordas nas janelas ativas, adicione a seguinte linha:
 > for_window [class="^.*"] border pixel 2
 
 Desta forma, estaremos setando o tamanho da bordar, que é de 2 pixels. Você pode colocar o que desejar.
+
+---
+
+E é isto pessoal, para quem desejar ver a minha configuração do **i3gaps** só ir [neste link](https://github.com/linuxroot1/i3gaps "github i3gaps")
+
+:)
