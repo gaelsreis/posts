@@ -66,6 +66,7 @@ O **i3gaps** é uma fork não oficial do **i3wm** e tem diversas funcionalidas q
 No final do arquivo de configurações do **i3gaps**, adicione a seguinte linha:
 
 > gaps inner 8
+
 > gaps outer 10
 
 Estas linhas é para dar o espaço entre as janelas abertas.
