@@ -15,7 +15,9 @@ serie: Linux
 
 # Configurando as cores do i3gaps
 
-O **i3gaps** é altamente configuravel, e por isto, hoje, iremos aprender a mudar as cores da barra, do foco das janelas e as workspaces ativas e inativas, então vamos lá.
+Dando continuidade ao que foi feito no [primeiro post](https://linuxroot1.github.io/i3gaps/ "Post 1"), vamos falar um pouco sobre o **i3gaps** e terminar a configuração do mesmo.
+
+O é uma TWM ([Tilling Window Manager](https://en.wikipedia.org/wiki/Tiling_window_manager "Tilling Window Manager")) **i3gaps** é altamente configuravel, e por isto, hoje, iremos aprender a mudar as cores da barra, do foco das janelas e as workspaces ativas e inativas, então vamos lá.
 
 Vamos, primeiro, alterar o background (plano de fundo) da barra de status. Procure pela linha:
 
@@ -100,6 +102,8 @@ Desta forma, estaremos setando o tamanho da bordar, que é de 2 pixels. Você po
 [i3gaps](https://github.com/Airblader/i3 "i3gaps")
 [i3status_git](https://github.com/i3/i3status "i3status github")
 [i3status](https://i3wm.org/i3status "i3status")
+[i3wm](https://i3wm.org/ "i3wm")
+[i3 ArchWiki](https://wiki.archlinux.org/index.php/I3 "i3 ArchWiki")
 
 ---
 
