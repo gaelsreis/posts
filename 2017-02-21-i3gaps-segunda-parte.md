@@ -2,7 +2,7 @@
 layout: post
 title: "Instalando e configurando o i3gaps no ArchLinux e derivados - 2° Parte" 
 image: "assets/img/i3-gaps.jpg"
-date: 2017-02-21 12:25:25
+date: 2017-02-21 21:29:10
 tags:
 - ArchLinux
 - Linux
@@ -92,6 +92,14 @@ Para colocar bordas nas janelas ativas, adicione a seguinte linha:
 > for_window [class="^.*"] border pixel 2
 
 Desta forma, estaremos setando o tamanho da bordar, que é de 2 pixels. Você pode colocar o que desejar.
+
+---
+
+# Links
+
+[i3gaps](https://github.com/Airblader/i3 "i3gaps")
+[i3status_git](https://github.com/i3/i3status "i3status github")
+[i3status](https://i3wm.org/i3status "i3status")
 
 ---
 
