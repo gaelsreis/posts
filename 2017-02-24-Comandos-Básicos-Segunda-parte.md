@@ -264,14 +264,8 @@ Desta forma, o **screenfetch** irá mostrar a quantidade de *RAM* gasta, o *host
 
 E este é o final do post de hoje, se você gostou, compartilhe nos seus grupos e contatos. E para quem deseja estudar mais sobre Linux e deseja aprender mais comandos, irei deixar alguns *.pdf* aqui.
 
-[]("")
-[]("")
-[]("")
-[]("")
-[]("")
-[]("")
-[]("")
-[]("")
-[]("")
-[]("")
-[]("")
+[Biblia Linux](https://mega.nz/#!BhwHVKSJ!uq1Y60xTDBOQJq7D36Iy5E32aEe3S0cl4dqSwOkVH6Q "Biblia Linux pdf")
+[Certificação Linux LPI 1](https://mega.nz/#!k95hRJKD!88YYQr00MUpBXeu6jULQHRGu7ygU1Xqw6uhKujdtWFc "Certificação Linux LPI 1")
+[Certificação Linux LPI 2](https://mega.nz/#!90p3ACAR!SjoO5aTeN1yit5j3N2P_7EOYdfV8tP0xJ2s_-ybV_mE "Certificação Linux LPI 2")
+[Manual Linux Completo](https://mega.nz/#!EsBR3B6S!2E-5ffn_sF-AXNkYq-gw9y1euDXEX_rNSteL5blxybM "Manual Linux Completo")
+[Caixa de ferramentas Unix](https://github.com/gabrielscosta/caixaDeFerramentasDoUnix "Caixa de ferramentas Unix")
