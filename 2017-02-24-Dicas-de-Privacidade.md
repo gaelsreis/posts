@@ -57,8 +57,22 @@ Para quem deseja alternativas ao *Gmail*, *Outlook* e outros serviços, existe a
 
 ---
 
-[ProtonMail](https://protonmail.com "ProtonMail"), [Zoho](https://www.zoho.com/mail/ "Zoho Mail"), [LavaBit](https://lavabit.com/ "LavaBit Mail) (O LavaBit é pago e foi usado pelo Snowden para enviar emails.)
+[ProtonMail](https://protonmail.com "ProtonMail"), [Zoho](https://www.zoho.com/mail/ "Zoho Mail"), [LavaBit](https://lavabit.com/ "LavaBit Mail") (O LavaBit é pago e foi usado pelo Snowden para enviar emails.), [autistici](https://www.autistici.org/u/services/ "autistic"), [KolabNow](https://kolabnow.com/ "KolabNow"), [Tutanota](https://tutanota.com/ "Tutanota"), [GhostMail](https://www.ghostmail.com/pt/login "GhostMail")
 
 ---
 
+Se você ainda prefere usar serviços de emails, como *Gmail*, *HotMail* e outros serviços parecidos, existem serviços para encriptar emails:
+
+---
+
+[EnigMail](https://www.enigmail.net/home/index.php "Enigmail"), [MailVelope](www.mailvelope.com "MailVelope"), [Gnu Privacy Guard](http://www.gnupg.org/ "Gnu Privacy Guard"), [TorBirdy](https://trac.torproject.org/projects/tor/wiki/torbirdy "TorBirdy")
+
+---
+
+
+# Final
+
+E este foi o post de hoje, estarei deixando o link do **PrismBreak** na qual indica vários outros serviços/softwares seguros para se usarem:
+
+[PrismBreak](https://prism-break.org "PrismBreak")
 
