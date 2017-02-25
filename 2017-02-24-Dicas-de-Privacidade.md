@@ -72,7 +72,8 @@ Se você ainda prefere usar serviços de emails, como *Gmail*, *HotMail* e outro
 
 # Final
 
-E este foi o post de hoje, estarei deixando o link do **PrismBreak** na qual indica vários outros serviços/softwares seguros para se usarem:
+E este foi o post de hoje, para quem deseja adicionar mais softwares/serviços aqui, só ir até o [repositorio dos posts](https://github.com/linuxroot1/posts "Repositório dos posts"), e também, estarei deixando o link do **PrismBreak** na qual indica vários outros serviços/softwares seguros para se usarem:
 
 [PrismBreak](https://prism-break.org "PrismBreak")
+
 
