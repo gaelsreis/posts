@@ -35,11 +35,19 @@ Depois de ler muitos posts no Viva o Linux, DioLinux e outros blogs, comecei a m
 E este foi o post de hoje, ele foi um foi um post mais pessoal, mas que eu queria trazer a todos. Abaixo, estão alguns links de posts e videos que eu gosto.
 
 [Viva o Linux](https://www.vivaolinux.com.br "Viva o Linux")
+
 [Toca do Tux](https://www.youtube.com/user/tocadotux "Toca do Tux")
+
 [DioLinux](https://www.youtube.com/user/Diolinux "DioLinux")
+
 [Playlist - Os vários sabores de Linux](https://www.youtube.com/playlist?list=PLbBPNfi_li9t3kcNOeGIt4Q9qmhRoReN3 "Os vários sabores de Linux")
+
 [Introdução ao GNU/Linux - Viva o Linux](https://www.vivaolinux.com.br/linux/ "Introdução ao GNU/Linux")
+
 [Playlist - Tutoriais, Dicas e Análises - DioLinux](https://www.youtube.com/playlist?list=PLZsjaJhVZaxU70Z9EOuEXpt_ZZMBlwQCI "Tutoriais, Dicas e Análises")
+
 [O que são RunLevels - Toca do Tux](https://www.youtube.com/watch?v=Rhqwnpy8hZo "O que são RunLevels")
+
 [Entendendo um pouco sobre Daemons - Viva o Linux](https://www.vivaolinux.com.br/artigo/Entendendo-um-pouco-sobre-os-daemons "Entendendo um pouco sobre os Daemons")
+
 [Entendendo o processo de Boot do Linux - Viva o Linux](https://www.vivaolinux.com.br/artigo/Entendendo-o-processo-de-boot?pagina=1 "Entendendo o processo de Boot do Linux")
