@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como e porque começei a usar Linux"
+title: "Como e porque comecei a usar Linux"
 image: ''
 date: 2017-03-05 03:50:30
 tags:
