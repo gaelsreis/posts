@@ -25,7 +25,7 @@ As ferramentas que a CIA usava para invadir estes aparelhos, era para praticamen
 
 Uma imagem que ilustra bem esta situação, é esta imagem:
 
-![Vault7 - Sistemas Operacionais vulneraveis - Por arquiteturas](/assets/linux.jpg)
+![Vault7 - Sistemas Operacionais vulneraveis - Por arquiteturas](/assets/img/linux.jpg)
 
 
 Aqui, é mostrado os sistema operacionais que a CIA pode acessar com seus exploits. Ele é mostrado os sistemas operacionais dividido por arquiteturas. Como vocês podem ver, a CIA tem acesso ao Linux em todas as arquiteturas. Então, vamos explicar isto.
