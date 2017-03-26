@@ -124,6 +124,85 @@ E veja que o teu site foi criado:
 
 ![ZeroNet Site](/assets/img/ZeroNet.png "ZeroNet Site")
 
+# Modificando o site
+
+Agora, vamos colocar o site realmente para funcionar.
+
+Primeiramente, iremos dar o comando:
+
+~~~
+$ ./ZeroNet.sh siteSign 1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL78
+~~~
+
+Irá aparecer algo parecido com isto:
+
+~~~
+- Starting ZeroNet...
+- OpenSSL loaded, version: 01000207F
+- Version: 0.5.3 r2004, Python 2.7.11 |Continuum Analytics, Inc.| (default, Dec  6 2015, 18:08:32) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-1)], Gevent: 1.0.2
+SiteManager Deleting orphan site from content.db: 1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL80
+- Signing site: 1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL78...
+Private key (input hidden):
+~~~
+
+Onde está escrito "*Private Key*", tu deve pegar a tua key privada, no meu caso, a minha é:
+
+~~~
+5Ja2kRdq4DdFRqgGywbLkuozBp1GFQnACBcma3TE1sJtZ7z17JW
+~~~
+
+Depois de colocar a tua key privada, irá aparecer algo assim:
+
+~~~
+- Starting ZeroNet...
+- OpenSSL loaded, version: 01000207F
+- Version: 0.5.3 r2004, Python 2.7.11 |Continuum Analytics, Inc.| (default, Dec  6 2015, 18:08:32) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-1)], Gevent: 1.0.2
+SiteManager Deleting orphan site from content.db: 1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL80
+- Signing site: 1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL78...
+Private key (input hidden):
+Site:1LMF3W..UL78 Opening site data directory: data/1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL78/...
+Site:1LMF3W..UL78 - [SKIPPED] content.json
+Site:1LMF3W..UL78 - index.html (SHA512: b86118089099ad45936a2003549ef2924cced9fd002c965e8e6064af7f386ce3)
+Site:1LMF3W..UL78 - i3.png (SHA512: 9bc82c0723cc6f96ccfa6961335dd778f121227f8d460cdb0bf3889efa1590db)
+Site:1LMF3W..UL78 - Honeypot.pdf (SHA512: dc2628a208cf5d5c70864c4778263de9ded5881479593ce126d9e49ed37d6321)
+Site:1LMF3W..UL78 - ZeroNet.png (SHA512: 89337f282ee4774f48a4ff50c8a9fc4cae05410492170909d18e2405b21b7153)
+Site:1LMF3W..UL78 Adding timestamp and sha512sums to new content.json...
+Site:1LMF3W..UL78 Verifying private key...
+Site:1LMF3W..UL78 Correct 1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL78 in valid signers: ['1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL78']
+Site:1LMF3W..UL78 Signing content.json...
+Site:1LMF3W..UL78 Saving to content.json...
+Site:1LMF3W..UL78 File content.json signed!
+~~~
+
+Agora, iremos dar este comando:
+
+~~~
+$ ./ZeroNet.sh sitePublish 1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL78
+~~~
+
+Irá aparecer algo parecido com isto:
+
+~~~
+- Starting ZeroNet...
+- OpenSSL loaded, version: 01000207F
+- Version: 0.5.3 r2004, Python 2.7.11 |Continuum Analytics, Inc.| (default, Dec  6 2015, 18:08:32) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-1)], Gevent: 1.0.2
+SiteManager Deleting orphan site from content.db: 1LMF3W3URyKP9EC34uYM3zi3uZ77z1UL81
+- Loading site...
+- Creating FileServer....
+TorManager Tor controller connect error: error: [Errno 111] Connection refused in TorManager.py line 159 > socket.py line 344
+FileServer StreamServer bind error, must be running already: [Errno 98] Address already in use: ('0.0.0.0', 15441)
+- Sending siteReload
+- {'to': 1, 'cmd': 'response', 'ok': 'Reloaded'}
+- Sending sitePublish
+- {'to': 2, 'cmd': 'response', 'ok': 'Successfuly published to 0 peers'}
+- Done.
+~~~
+
+Agora, teu site já está público e qualquer um pode acessa-lo.
+
 ## Final
 
 Este foi um post meu ensinando a como criar um site na **ZeroNet**. Se você gostou, compartilhe. Creio que em breve irei fazer um video em um canal no Youtube ensinando a como criar um site na ZeroNet.
