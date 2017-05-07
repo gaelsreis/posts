@@ -33,7 +33,7 @@ O ***DNS Leak*** ocorre quando o usuário acessa um site e o determina o endere�
 
 Sob certas condições, mesmo quando se utiliza uma VPN, o OS (Operation System) utiliza os seus servidores DNS padrões em vez dos servidores DNS da VPN.
 
-![DNS Leak](what-is-a-dns-leak.png)
+![DNS Leak](/assets/img/what-is-a-dns-leak.png)
 
 ## Como posso saber se estou sofrendo de DNS Leak.
 
