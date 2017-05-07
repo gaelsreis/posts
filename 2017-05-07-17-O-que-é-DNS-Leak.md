@@ -43,7 +43,7 @@ Quando é detectado um ***DNS Leak***, você tem duas opções, trocar a tua VPN
 
 # Final
 
-E este foi o post de hoje, espero que tenham gostado e entendo o grande risco que corremos ao utilizar uma VPN na qual da ****DNS Leak***.
+E este foi o post de hoje, espero que tenham gostado e entendo o grande risco que corremos ao utilizar uma VPN na qual da ***DNS Leak***.
 
 [DNS Leak - Wikipedia](https://en.wikipedia.org/wiki/DNS_leak "DNS Leak")
 
